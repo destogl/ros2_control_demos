@@ -19,3 +19,13 @@ repositories:
     type: git
     url: https://github.com/ros/angles.git
     version: ros2
+
+# Test stuff
+  moveit2:
+    type: git
+    url: https://github.com/destogl/moveit2.git
+    version: joystick-to-servo
+  warehouse_ros_mongo:
+    type: git
+    url: https://github.com/ros-planning/warehouse_ros_mongo
+    version: ros2
